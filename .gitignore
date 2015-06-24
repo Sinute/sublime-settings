@@ -1,0 +1,5 @@
+.DS_Store
+GoSublime-aux.sublime-settings
+GoSublime/
+Package Control*
+Color Highlighter

@@ -1,0 +1,11 @@
+{
+	"autocomplete": true,
+	"enable_auto_align": true,
+	"passes":
+	[
+	],
+	"psr1": true,
+	"psr1_naming": true,
+	"psr2": true,
+	"version": 2
+}
